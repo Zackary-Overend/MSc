@@ -13,7 +13,7 @@ axes.formatter.limits : -5, 3
 
 ## Grid
 axes.grid : true
-grid.color : e0e0e0
+grid.color : 0A0A0A
 grid.linewidth : 0.25
 axes.grid.which : both
 
